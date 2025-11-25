@@ -1,0 +1,255 @@
+[
+  {
+    "problem": {
+      "display_name": "复杂LaTeX题目",
+      "latex": true,
+      "samples": [
+        {
+          "input": "World",
+          "output": "Hello, World!"
+        },
+        {
+          "input": "Typst",
+          "output": "Hello, Typst!"
+        }
+      ]
+    },
+    "statement": {
+      "description": "给定一个函数$f(x) = \\frac{x^2 + 1}{x - 1}$，计算...",
+      "input": "输入包含一个整数$n$。",
+      "output": "输出结果为 $\\boldsymbol{\\frac{result}{2}}$。",
+      "notes": "约束：$0 \\le n \\le 10^9$"
+    }
+  },
+  {
+    "problem": {
+      "display_name": "Hello, World!",
+      "samples": [
+        {
+          "input": "World",
+          "output": "Hello, World!"
+        },
+        {
+          "input": "Typst",
+          "output": "Hello, Typst!"
+        }
+      ]
+    },
+    "statement": {
+      "description": "给定一个字符串 $S$，输出 \"Hello, $S$!\"",
+      "input": "输入一个字符串 $S$。",
+      "output": "输出答案。",
+      "notes": "字符串长度不超过 100。"
+    }
+  },
+  {
+    "problem": {
+      "display_name": "Hello, World!",
+      "samples": [
+        {
+          "input": "World",
+          "output": "Hello, World!"
+        },
+        {
+          "input": "Typst",
+          "output": "Hello, Typst!"
+        }
+      ]
+    },
+    "statement": {
+      "description": "给定一个字符串 $S$，输出 \"Hello, $S$!\"",
+      "input": "输入一个字符串 $S$。",
+      "output": "输出答案。",
+      "notes": "字符串长度不超过 100。"
+    }
+  },
+  {
+    "problem": {
+      "display_name": "Hello, World!",
+      "samples": [
+        {
+          "input": "World",
+          "output": "Hello, World!"
+        },
+        {
+          "input": "Typst",
+          "output": "Hello, Typst!"
+        }
+      ]
+    },
+    "statement": {
+      "description": "给定一个字符串 $S$，输出 \"Hello, $S$!\"",
+      "input": "输入一个字符串 $S$。",
+      "output": "输出答案。",
+      "notes": "字符串长度不超过 100。"
+    }
+  },
+  {
+    "problem": {
+      "display_name": "Hello, World!",
+      "samples": [
+        {
+          "input": "World",
+          "output": "Hello, World!"
+        },
+        {
+          "input": "Typst",
+          "output": "Hello, Typst!"
+        }
+      ]
+    },
+    "statement": {
+      "description": "给定一个字符串 $S$，输出 \"Hello, $S$!\"",
+      "input": "输入一个字符串 $S$。",
+      "output": "输出答案。",
+      "notes": "字符串长度不超过 100。"
+    }
+  },
+  {
+    "problem": {
+      "display_name": "Hello, World!",
+      "samples": [
+        {
+          "input": "World",
+          "output": "Hello, World!"
+        },
+        {
+          "input": "Typst",
+          "output": "Hello, Typst!"
+        }
+      ]
+    },
+    "statement": {
+      "description": "给定一个字符串 $S$，输出 \"Hello, $S$!\"",
+      "input": "输入一个字符串 $S$。",
+      "output": "输出答案。",
+      "notes": "字符串长度不超过 100。"
+    }
+  },
+  {
+    "problem": {
+      "display_name": "Hello, World!",
+      "samples": [
+        {
+          "input": "World",
+          "output": "Hello, World!"
+        },
+        {
+          "input": "Typst",
+          "output": "Hello, Typst!"
+        }
+      ]
+    },
+    "statement": {
+      "description": "给定一个字符串 $S$，输出 \"Hello, $S$!\"",
+      "input": "输入一个字符串 $S$。",
+      "output": "输出答案。",
+      "notes": "字符串长度不超过 100。"
+    }
+  },
+  {
+    "problem": {
+      "display_name": "Hello, World!",
+      "samples": [
+        {
+          "input": "World",
+          "output": "Hello, World!"
+        },
+        {
+          "input": "Typst",
+          "output": "Hello, Typst!"
+        }
+      ]
+    },
+    "statement": {
+      "description": "给定一个字符串 $S$，输出 \"Hello, $S$!\"",
+      "input": "输入一个字符串 $S$。",
+      "output": "输出答案。",
+      "notes": "字符串长度不超过 100。"
+    }
+  },
+  {
+    "problem": {
+      "display_name": "Hello, World!",
+      "samples": [
+        {
+          "input": "World",
+          "output": "Hello, World!"
+        },
+        {
+          "input": "Typst",
+          "output": "Hello, Typst!"
+        }
+      ]
+    },
+    "statement": {
+      "description": "给定一个字符串 $S$，输出 \"Hello, $S$!\"",
+      "input": "输入一个字符串 $S$。",
+      "output": "输出答案。",
+      "notes": "字符串长度不超过 100。"
+    }
+  },
+  {
+    "problem": {
+      "display_name": "Hello, World!",
+      "samples": [
+        {
+          "input": "World",
+          "output": "Hello, World!"
+        },
+        {
+          "input": "Typst",
+          "output": "Hello, Typst!"
+        }
+      ]
+    },
+    "statement": {
+      "description": "给定一个字符串 $S$，输出 \"Hello, $S$!\"",
+      "input": "输入一个字符串 $S$。",
+      "output": "输出答案。",
+      "notes": "字符串长度不超过 100。"
+    }
+  },
+  {
+    "problem": {
+      "display_name": "Hello, World!",
+      "samples": [
+        {
+          "input": "World",
+          "output": "Hello, World!"
+        },
+        {
+          "input": "Typst",
+          "output": "Hello, Typst!"
+        }
+      ]
+    },
+    "statement": {
+      "description": "给定一个字符串 $S$，输出 \"Hello, $S$!\"",
+      "input": "输入一个字符串 $S$。",
+      "output": "输出答案。",
+      "notes": "字符串长度不超过 100。"
+    }
+  },
+  {
+    "problem": {
+      "display_name": "Hello, World!",
+      "samples": [
+        {
+          "input": "World",
+          "output": "Hello, World!"
+        },
+        {
+          "input": "Typst",
+          "output": "Hello, Typst!"
+        }
+      ]
+    },
+    "statement": {
+      "description": "给定一个字符串 $S$，输出 \"Hello, $S$!\"",
+      "input": "输入一个字符串 $S$。",
+      "output": "输出答案。",
+      "notes": "字符串长度不超过 100。"
+    }
+  }
+]
