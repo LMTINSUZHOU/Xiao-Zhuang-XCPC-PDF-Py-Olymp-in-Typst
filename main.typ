@@ -6,5 +6,6 @@
   title: "2026年南晓开放原子社大学生程序设计新年赛",
   subtitle: "正式赛",
   author: "本次竞赛由南晓开放原子社ICPC竞赛集训队命题",
+  date: "2026年2月2日",
   problems: problems
 )
